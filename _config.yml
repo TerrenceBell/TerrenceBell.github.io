@@ -1,11 +1,11 @@
 # Site settings
 author: Terrence Bell
-title: 
+title: Why I decided to study software engineering 
 header-img: img/home-bg.png
 email: terrencekbell@gmail.com
 copyright_name: Terrence Bell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My career change
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TerrenceBell
